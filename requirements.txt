@@ -1,0 +1,32 @@
+# Streamlit Frontend & UI
+streamlit
+streamlit-authenticator
+plotly
+matplotlib
+
+# Backend API
+fastapi
+uvicorn
+python-multipart
+requests
+
+# Machine Learning & Data
+scikit-learn
+pandas
+numpy
+joblib
+
+# Database Connector
+psycopg2-binary
+
+# File & Text Processing
+pdfplumber
+python-docx
+
+# Google Gemini API & Environment
+google-generativeai
+python-dotenv
+
+# Utilities (though often dependencies, good to list)
+PyYAML
+bcrypt
